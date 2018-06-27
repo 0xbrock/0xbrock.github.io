@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /lean-coffee-timer-react/
